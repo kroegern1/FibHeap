@@ -1,0 +1,3 @@
+facebook,youtube,amazon,gmail
+amazon,facebook,youtube
+netflix,facebook,amazon,youtube,gmail

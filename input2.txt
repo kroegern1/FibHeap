@@ -1,0 +1,52 @@
+$facebook 5
+$youtube 3
+$facebook 10
+$amazon 10
+$gmail 4
+$weather 2
+$facebook 6
+$youtube 8
+$ebay 2
+$amazon 20
+$news 2
+$facebook 12
+$youtube 11
+$facebook 6
+$youtube 8
+4
+$ebay 2
+$amazon 20
+$news 2
+$facebook 12
+$youtube 11
+$facebook 6
+$youtube 8
+$ebay 2
+$amazon 20
+$news 2
+$facebook 12
+$youtube 11
+$amazon 6
+3
+$facebook 12
+$amazon 2
+$stop 3
+$playing 4
+$gmail 15
+$netflix 100
+$playing 4
+$gmail 15
+$netflix 100
+$drawing 3
+$ebay 12
+$playing 4
+$gmail 15
+$netflix 100
+$drawing 3
+$ebay 12
+$drawing 3
+$ebay 12
+$netflix 6
+$cnn 5
+5
+stop
